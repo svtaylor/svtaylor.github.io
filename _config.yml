@@ -88,3 +88,5 @@ exclude:
 #Additional Flags and Content
 collections:
   - products
+  
+fa_key: d09ac23cda.js
