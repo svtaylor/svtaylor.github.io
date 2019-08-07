@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Let's Give This a Try
 published: true
 ---
 
