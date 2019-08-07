@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+#Additional Flags and Content
+collections:
+  - products
